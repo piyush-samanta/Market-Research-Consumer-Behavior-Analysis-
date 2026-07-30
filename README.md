@@ -172,4 +172,7 @@ Market Research Final Report/
 
 BBA (Hons.) – Production & Operations Management  
 Minor: Data Analytics
+<br>
 LinkedIn: www.linkedin.com/in/piyush-samanta-32985b323
+<br>
+GitHub: https://github.com/piyush-samanta
